@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ajaxMenu">
+    <output-path>$PROJECT_DIR$/out/artifacts/ajaxMenu</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ajaxMenu/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ajaxMenu" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
